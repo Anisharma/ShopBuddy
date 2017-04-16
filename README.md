@@ -1,0 +1,2 @@
+# ShopBuddy
+Shopping Assistant bot
